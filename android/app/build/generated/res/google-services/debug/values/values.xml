@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">766736294205</string>
+    <string name="google_api_key" translatable="false">AIzaSyCG9SnAPezLGUXwDWcCl5Bil1DvJl_1YAM</string>
+    <string name="google_app_id" translatable="false">1:766736294205:android:60d0a883ce9c9aa6316554</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCG9SnAPezLGUXwDWcCl5Bil1DvJl_1YAM</string>
+    <string name="google_storage_bucket" translatable="false">inkart-36792.appspot.com</string>
+    <string name="project_id" translatable="false">inkart-36792</string>
+</resources>
